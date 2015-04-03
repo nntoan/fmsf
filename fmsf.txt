@@ -3,7 +3,7 @@
 ! Title: FMSF 2.0
 ! Expires: 2 days
 ! Version: 2.0
-! Last modified: 1/4/2015 11:39 AM GMT+7
+! Last modified: 03/04/2015 2:15 PM GMT+7
 ! ============================== Different ====================================
 @@||hplus.com.vn/*/banner/*
 @@||2o7fansub.com/banner/*
@@ -379,6 +379,8 @@ youtube.com###feed-pyv-container
 youtube.com###watch7-sidebar-ads
 youtube.com##.start.end
 zippyshare.com##.center_ad
+mail.google.com###ChMI0ajxiMrZxAIV5iuMCh2yEgCGEAaYmOGuAgE
+mail.google.com###tl_ > .Pg > .ym.Hg > .np > .pp
 ! ========================== Ads, Popups and Trackers =========================
 */ad_manage/*
 */adscript/*

@@ -1,9 +1,9 @@
 [Adblock]
 ! Homepage: https://codefelony.com
-! Title: FMSF 2.0
+! Title: FMSF 2.1
 ! Expires: 2 days
-! Version: 2.0
-! Last modified: 03/04/2015 2:15 PM GMT+7
+! Version: 2.1
+! Last modified: 05/07/2015 12:44 AM GMT+7
 ! ============================== Different ====================================
 @@||hplus.com.vn/*/banner/*
 @@||2o7fansub.com/banner/*
@@ -381,6 +381,25 @@ youtube.com##.start.end
 zippyshare.com##.center_ad
 mail.google.com###ChMI0ajxiMrZxAIV5iuMCh2yEgCGEAaYmOGuAgE
 mail.google.com###tl_ > .Pg > .ym.Hg > .np > .pp
+soundflush.com##.container > .ad.ad--top
+soundflush.com##.container > .ad.ad--bottom
+||data.chiasenhac.com/banner/
+comicvn.net##.banner-mobile-bottom
+comicvn.net###banner-center-1.baner_md_01
+comicvn.net###content-page > .social:nth-of-type(4)
+comicvn.net###content-page > .social
+||aiztravel.com/link/mobile_top.html
+coolestguidesontheplanet.com###text-3 > .widget-wrap > .textwidget > .fb_iframe_widget.fb-like-box
+coolestguidesontheplanet.com###text-21
+coolestguidesontheplanet.com###paypal_donations-2
+||cdn-careers.sstatic.net/careers/gethired/img/companypageadfallback-leaderboard-2.png?v=59b591051ad7
+||www.10khits.com/banners/728x90.png
+||www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FOpencartvn&width=1130&height=258&colorscheme=light&show_faces=true&border_color&stream=false&header=false&appId=167948843222643
+||www.10khits.com/banners/
+www.redtube.com###contentHolder > .pageVideos.content > .videosTable > div:nth-of-type(2)
+www.redtube.com###contentHolder > .pageVideos.content > div:nth-of-type(4)
+www.redtube.com###contentHolder > .pagePornStars.content > .galleryPage > div:nth-of-type(3)
+ct.360game.vn###header_main360
 ! ========================== Ads, Popups and Trackers =========================
 */ad_manage/*
 */adscript/*

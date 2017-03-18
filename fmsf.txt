@@ -1,6 +1,6 @@
 [Adblock]
-! Homepage: https://codefelony.com
-! Title: FMSF 2.1
+! Homepage: https://nntoan.github.io
+! Title: FMSF 2.2
 ! Expires: 2 days
 ! Version: 2.1
 ! Last modified: 05/07/2015 12:44 AM GMT+7
@@ -496,6 +496,8 @@ ct.360game.vn###header_main360
 @@||twitter.com/i/profiles/popup?*
 @@||weather.channelvn.net^
 @@||yamaha-motor.com.vn/uploads/banners/*
+@@||shink.in^$generichide
+@@/showads.js$domain=shink.in
 ^ads-
 ^ads.
 ^ads_
